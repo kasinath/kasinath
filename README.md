@@ -1,6 +1,4 @@
 ## Hi there 👋 I'm Kasinath (KASI)
-![photo](https://github.com/user-attachments/assets/33419a25-940d-464f-b20f-d0e477178ff0)
-
 
 ### M.Tech Micro & Nano Electronics @ College of Engineering Trivandrum  
 Focused on **VLSI, ASIC/FPGA Design, Embedded Systems, and Semiconductor R&D**
