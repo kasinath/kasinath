@@ -5,8 +5,8 @@ Focused on **VLSI, ASIC/FPGA Design, Embedded Systems, and Semiconductor R&D**
 
 ---
 
-### 🔬 Current Work
-- Designing a **RISC-V / ARM-based SoC** for:
+### 🔬 Major Work (Patent Pending)
+- Designing a Unified **RISC-V / ARM-based SoC** for:
   - **EV Fault Detection**
   - **Standalone Navigation in GPS-Denied Environments** using **IMU Sensor Fusion**
 - Implementing the SoC on **Digilent Genesys 2 FPGA**
@@ -19,7 +19,7 @@ Focused on **VLSI, ASIC/FPGA Design, Embedded Systems, and Semiconductor R&D**
 ---
 
 ### 💼 Internship & Industry Experience
-**Netrasemi** – Backend VLSI (Current)  
+**Netrasemi** – Backend VLSI 
 **Exodyne Pvt Ltd** – Embedded Systems / Navigation Systems  
 - Simulated IMU sensor data (Accelerometer + Gyroscope)
 - Applied filtering and sensor fusion fundamentals
@@ -34,7 +34,7 @@ Focused on **VLSI, ASIC/FPGA Design, Embedded Systems, and Semiconductor R&D**
 - FPGA Prototyping
 
 **Software / Programming**
-- Embedded C, Python, MATLAB, Scilab
+- Verilog, Embedded C, Python, MATLAB, Scilab
 
 **Sensor Fusion**
 - Dead Reckoning, Bias/Noise Modelling
